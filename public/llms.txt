@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-538b16a6.zappy5.app
+https://example.com
 מחפשים טיפול זוגי מקצועי שישנה את מערכת היחסים שלכם? יונית המטפלת מזמינה אתכם למסע של חיבור מחדש, תקשורת פתוחה ופתרון קונפליקטים בסביבה חמה ותומכת. התחילו עוד היום!
 
 ### שירותים
-https://-538b16a6.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי הטיפול הזוגי של יונית המטפלת: סדנאות תקשורת, גישור בסכסוכים והעצמת האינטימיות. כלים פרקטיים להצלחה זוגית מחכים לכם כאן, בואו לבחור את המסלול המושלם!
 
 ### אודות
-https://-538b16a6.zappy5.app/about
+https://example.com/about
 יונית המטפלת מביאה ניסיון עשיר ואמפתיה עמוקה לכל מפגש טיפולי. קראו על הגישה הייחודית שלה, ההכשרה המקצועית והתשוקה לעזור לזוגות לבנות אהבה יציבה ומספקת יותר.
 
 ### צור קשר
-https://-538b16a6.zappy5.app/contact
+https://example.com/contact
 מוכנים לשנות את הדינמיקה בזוגיות שלכם? צרו קשר עם יונית המטפלת עוד היום לתיאום פגישת ייעוץ ראשונית. מענה מהיר, דיסקרטיות מלאה ודרך חדשה לאהבה מחכים לכם.
 
 ### תודה רבה - פנייתך התקבלה | יונית המטפלת
-https://-538b16a6.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית ליונית, מטפלת זוגית. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-538b16a6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-538b16a6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-538b16a6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-538b16a6.zappy5.app/contact
-- Endpoint: https://-538b16a6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Couples Therapy
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-538b16a6.zappy5.app/sitemap.xml
-- Robots: https://-538b16a6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-538b16a6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
